@@ -1,6 +1,5 @@
-#prompt user for weather input
+
 weather = input ("what's the weather like today? (sunny/rainy/cold): ").lower()
-#provide clothing recommendations
 if weather == "sunny":
     print("wear a t-shirt and sunglasses.")
 elif weather == "rainy":
