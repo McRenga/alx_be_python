@@ -1,0 +1,18 @@
+def greet():
+    print("hello") 
+    print ("laino")
+
+greet()
+greet()
+greet()
+
+
+def calculate_area(length,width):
+    area = length*width
+    return area
+
+calculate_area()
+
+
+def number():
+    if number 

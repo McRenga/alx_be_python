@@ -1,6 +1,9 @@
-principal = 1000
-rate = 0.05
-time = 3
-interest = principal * rate * time
 
-print(f"The simple interest is: {interest}")
+def product (num1,num2):
+    return num1 * num2
+
+print(product(5,7))
+
+def divide (L1,L2):
+    return L1 / L2
+print(divide(144,7))
